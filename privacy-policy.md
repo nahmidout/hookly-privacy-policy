@@ -1,4 +1,4 @@
-Last Updated: [Insert Date]
+Last Updated: March 2, 2025
 1. Introduction
 Hookly ("the Extension") is a Chrome extension designed to generate viral ad hooks using AI. We respect your privacy and are committed to protecting any information you may provide while using our extension.
 
@@ -18,3 +18,4 @@ We may update this Privacy Policy if needed. If changes are made, the updated po
 
 6. Contact Us
 If you have any questions regarding this Privacy Policy, please contact us at:
+contact@hookly.ai
